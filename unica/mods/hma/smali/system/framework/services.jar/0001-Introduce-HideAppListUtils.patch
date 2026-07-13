@@ -814,7 +814,7 @@ index ca6069c..a75d4d2 100644
      .locals 2
  
 @@ -6087,8 +6307,27 @@
-     :goto_11
+     :goto_10
      if-nez v0, :cond_25
  
 -    if-nez v5, :cond_25
